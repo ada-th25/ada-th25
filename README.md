@@ -1,7 +1,7 @@
 ## 👩‍💻 About Me
 
 Hi, I'm Tsuyu 👋
-I'm an MSc Environmental Data Science & Machine Learning graduate from Imperial College London, currently working as an AI Scientist – Climate at Artio. My work focuses on applying machine learning to satellite and remote sensing data for climate and environmental risk problems.
+I'm an MSc Environmental Data Science & Machine Learning graduate from Imperial College London, currently working as an AI Scientist at Artio. My work focuses on applying machine learning to satellite and remote sensing data for climate and environmental risk problems.
 
 ---
 
@@ -11,7 +11,7 @@ I'm an MSc Environmental Data Science & Machine Learning graduate from Imperial 
 - **Tools:** Git, Google Earth Engine, Google Cloud Platform, JIRA, Agile/Scrum
 
 ### 📚 Projects
-🛰️ **Satellite Wildfire Risk Downscaling** — Deep learning pipeline (Hybrid Attention U-Net) improving spatial resolution of GOES wildfire imagery 2km → 30m for a carbon insurance partner's risk assessment workflow.
+🛰️ **Satellite Wildfire Risk Downscaling** *(MSc research project)* — Deep learning pipeline (Hybrid Attention U-Net) improving spatial resolution of GOES wildfire imagery 2km → 30m for a carbon insurance partner's risk assessment workflow.
 
 🦋 **[BHL Entity Extraction & Reconciliation](https://github.com/ada-th25/bhl-entity-extraction)** *(in progress)* — LLM-based pipeline extracting structured entities (taxa, people, localities) from OCR'd historical biodiversity literature (Biodiversity Heritage Library), reconciled against GBIF taxonomic data.
 
