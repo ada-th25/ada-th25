@@ -13,7 +13,7 @@ I'm an MSc Environmental Data Science & Machine Learning graduate from Imperial 
 ### 📚 Projects
 🛰️ **Satellite Wildfire Risk Downscaling** *(MSc research project)* — Deep learning pipeline (Hybrid Attention U-Net) improving spatial resolution of GOES wildfire imagery 2km → 30m for a carbon insurance partner's risk assessment workflow.
 
-🦋 **[BHL Entity Extraction & Reconciliation](https://github.com/ada-th25/bhl-entity-extraction)** *(in progress)* — LLM-based pipeline extracting structured entities (taxa, people, localities) from OCR'd historical biodiversity literature (Biodiversity Heritage Library), reconciled against GBIF taxonomic data.
+🦋 **[BHL Entity Extraction & Reconciliation](https://github.com/ada-th25/bhl-entity-extraction)** — LLM-based pipeline extracting structured entities (taxa, people, localities) from OCR'd historical biodiversity literature (Biodiversity Heritage Library), reconciled against GBIF taxonomic data.
 
 👩‍🔧 Portfolio repos coming soon — currently migrating select projects to public repos.
 
