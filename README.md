@@ -7,8 +7,8 @@ I'm an MSc Environmental Data Science & Machine Learning graduate from Imperial 
 
 ### 🛠 Technical Stack
 - **Languages:** Python (PyTorch, NumPy, Pandas, Scikit-learn, OpenCV, Geopandas, Rasterio, Matplotlib), C++
-- **Specializations:** Deep Learning, Computer Vision, Remote Sensing, Geospatial Analysis
-- **Tools:** Git, Google Earth Engine, Google Cloud Platform, JIRA, Agile/Scrum
+- **Specialisations:** Deep Learning, Computer Vision, Remote Sensing, Geospatial Analysis
+- **Tools:** Git, Google Earth Engine, Google Cloud Platform, Microsoft Azure, VSCode, Jupyterlab, Google Colab, JIRA, Agile/Scrum
 
 ### 📚 Projects
 🛰️ **[Satellite Wildfire Risk Downscaling](https://github.com/ada-th25/wildfire-downscaling)** *(MSc research project)* — Deep learning pipeline (Hybrid Attention U-Net) improving spatial resolution of GOES wildfire imagery 2km → 30m for a carbon insurance startup's ([Artio](https://www.artiocarbon.com/)) risk assessment workflow.
