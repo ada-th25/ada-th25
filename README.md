@@ -15,6 +15,8 @@ I'm an MSc Environmental Data Science & Machine Learning graduate from Imperial 
 
 🦋 **[BHL Entity Extraction & Reconciliation](https://github.com/ada-th25/bhl-entity-extraction)** — LLM-based pipeline extracting structured entities (taxa, people, localities) from OCR'd historical biodiversity literature (Biodiversity Heritage Library), reconciled against GBIF taxonomic data.
 
+🦝 **[Camera-Trap Wildlife Detection & Cross-Site Robustness](https://github.com/ada-th25/camera-trap-site-robustness)** — Fine-tuned YOLOv8 for camera-trap species detection, measuring how accuracy degrades at an unseen camera location (mAP50 drops from 0.26 to 0.12) and diagnosing the specific failure modes behind it via confusion-matrix analysis and manual error inspection. Includes a leakage-safe data pipeline, unit tests, CI, Dockerized CPU inference, and ONNX export benchmarking.
+
 🎮 **[NPC Dialogue Generation via LoRA Fine-tuning](https://github.com/ada-th25/game-dialogue-lora)** *(in progress)* — LoRA fine-tune of Llama 3.1 8B for controllable NPC dialogue generation (archetype/mood/topic-conditioned), benchmarked against a few-shot prompting baseline. Built as part of exploring LLM fine-tuning and game-adjacent ML applications.
 
 👩‍🔧 Portfolio repos coming soon — currently migrating select projects to public repos.
